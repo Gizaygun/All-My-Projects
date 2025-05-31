@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      h1 {
+        margin: auto;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      header,
+      footer {
+        background-color: palevioletred;
+        color: khaki;
+        padding: 15px;
+      }
+      .col {
+        float: left;
+        padding: 15px;
+      }
+      .menü {
+        width: 25%;
+        float: left;
+      }
+      .menü ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+      }
+      .menü li {
+        margin-bottom: 8px;
+        padding: 8px;
+        background-color: blueviolet;
+      }
+      .menü li:hover {
+        cursor: pointer;
+        background-color: rgb(245, 206, 245);
+      }
+      .content {
+        width: 75%;
+        float: left;
+      }
+      .clearfix::after {
+        content: none;
+        display: block;
+        clear: both;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h2>header</h2>
+    </header>
+    <main class="clearfix">
+      <div class="menü col">
+        <ul>
+          <li>html</li>
+          <li>css</li>
+          <li>javascript</li>
+        </ul>
+      </div>
+      <div class="content col"></div>
+      <h1>Komple Web Geliştirme Eğitimi</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint cum maxime
+        velit laboriosam, unde autem. Consequatur, dolorum quos aliquid deleniti
+        doloremque mollitia dolorem molestias, tempore ipsum at nemo, iure
+        libero.
+      </p>
+
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
+        perspiciatis, porro maiores, quasi, asperiores iste sit modi voluptate
+        numquam nulla dolore praesentium rerum libero. Ea reiciendis ad
+        voluptatum totam eligendi?
+      </p>
+    </main>
+
+    <footer>
+      <h2>footer</h2>
+    </footer>
+  </body>
+</html>
