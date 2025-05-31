@@ -26,6 +26,6 @@ Bu repo, yazılım mühendisliği ve veri bilimi alanlarında geliştirdiğim pr
 
 ---
 
-📧 İletişim: gizaygun@gmail.com  
+📧 İletişim: aygun.gzm01@gmail.com  
 🔗 GitHub: [github.com/Gizaygun/All-My-Projects](https://github.com/Gizaygun/All-My-Projects)
 
