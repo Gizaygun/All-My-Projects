@@ -1,31 +1,35 @@
-# 💼 All My Projects
+# My All Projects
 
-Bu repo, yazılım mühendisliği ve veri bilimi alanlarında geliştirdiğim projeleri içerir. Hem akademik hem de kişisel çalışmalarımı bir araya getirdim.
-
-## 📂 Proje Başlıkları
-
-### 🔹 Titanic Machine Learning Projesi
-- Veri ön işleme
-- Model eğitimi ve değerlendirme
-- ROC & AUC analizi
-- Jupyter Notebook + Python dosyaları içerir.
-
-### 🔹 SQL Projeleri
-- Satış verisi üretimi
-- SQL sorguları ve veri setleri
-- Excel & SQL entegrasyonu
-
-### 🔹 Yazılım Gereksinim Analizi
-- Proje dokümanları (Word, Sunum)
-- Python & Jupyter kodları
-
-## 📁 Klasörler
-- `Titanic_Project/`
-- `SQL/`
-- `Yazılım Gereksinimlerinin Analizi_Project/`
+This repository contains projects I have developed in the fields of **software engineering** and **data science**, combining both academic and personal work.
 
 ---
 
-📧 İletişim: aygun.gzm01@gmail.com  
-🔗 GitHub: [github.com/Gizaygun/All-My-Projects](https://github.com/Gizaygun/All-My-Projects)
+## 📂 Project Titles
 
+### 🔹 Titanic Machine Learning Project  
+- Data preprocessing  
+- Model training and evaluation  
+- ROC & AUC analysis  
+- Includes Jupyter Notebooks and Python scripts  
+
+### 🔹 SQL Projects  
+- Sales data generation  
+- SQL queries and datasets  
+- Excel & SQL integration  
+
+### 🔹 Software Requirements Analysis  
+- Project documentation (Word & Presentation)  
+- Python & Jupyter scripts  
+
+---
+
+## 📁 Project Folders
+- `Titanic_Project/`  
+- `SQL/`  
+- `Software_Requirements_Analysis_Project/`
+
+---
+
+## 📧 Contact
+**Email:** aygun.gzm01@gmail.com  
+**GitHub:** [github.com/Gizaygun/All-My-Projects](https://github.com/Gizaygun/My-All-Projects)
